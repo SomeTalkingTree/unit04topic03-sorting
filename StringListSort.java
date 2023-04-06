@@ -1,9 +1,16 @@
 import java.util.ArrayList;
 
-public class StringListSearch {
+public class StringListSort {
+    
 
-    public static int unorderedSearch(ArrayList<String> items, String term) {
-        return 0;
+    public void Search(ArrayList<String> items) {
+        int indexofnums = -1;
+        int order =0;
+        for(String text:items){
+            
+        }
+        
+
     }
     
     public static void main(String[] args) {
